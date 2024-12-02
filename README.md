@@ -70,6 +70,7 @@ This project consists of two main MATLAB scripts:
 3. `Happy_Birthday.wav`: The generated Happy Birthday song audio file.
 4. `noisy_output.wav`: The generated noisy version of the Happy Birthday song.
 5. `filtered_output.wav`: The generated filtered version of the noisy Happy Birthday song.
+6. `EENG 341 - Term Project - Pavan & Imran`: Report for the project contains the analysis of the signal.
 
 ---
 
